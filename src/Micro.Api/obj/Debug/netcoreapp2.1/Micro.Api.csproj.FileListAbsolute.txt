@@ -1,0 +1,4 @@
+C:\Users\Ramin\Desktop\Microservice\src\Micro.Api\obj\Debug\netcoreapp2.1\Micro.Api.csprojAssemblyReference.cache
+C:\Users\Ramin\Desktop\Microservice\src\Micro.Api\obj\Debug\netcoreapp2.1\Micro.Api.AssemblyInfoInputs.cache
+C:\Users\Ramin\Desktop\Microservice\src\Micro.Api\obj\Debug\netcoreapp2.1\Micro.Api.AssemblyInfo.cs
+C:\Users\Ramin\Desktop\Microservice\src\Micro.Api\obj\Debug\netcoreapp2.1\Micro.Api.csproj.CoreCompileInputs.cache
